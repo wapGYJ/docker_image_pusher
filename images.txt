@@ -1,2 +1,2 @@
-kafka:latest
+kafka:3.6
 
